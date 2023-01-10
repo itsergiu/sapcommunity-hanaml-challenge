@@ -1,7 +1,7 @@
 # sapcommunity-hanaml-challenge
 “I quit!” – How to predict employee churn | SAP HANA Cloud Machine Learning Challenge
 
-I participated in SAP HANA ML Challenge – Employee Churn and I came on second place.
+I participated in the SAP HANA ML Challenge – Employee Churn and I came on second place.
 
 I would like to thank entire SAP expert team for the initiative and organisation!
 
